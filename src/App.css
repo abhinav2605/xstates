@@ -12,7 +12,20 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+#country{
+  width: 30%;
+  padding: 5px;
+  margin: 10px;
+  border-radius: 3px;
+}
 
+#city, #state{
+  width: 15%;
+  padding: 5px;
+  margin: 10px;
+  border-radius: 3px;
+
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
